@@ -128,7 +128,10 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 5692226091561319008, guid: de2dcfff4586b2a4db10ba5619836e1c, type: 2}
+  - {fileID: 6463895419169172930, guid: 1a2e979b564427b46aad0bdf0e6ea823, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -601,11 +604,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloLens2-Ishibashi
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 807d2116cab7d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: HoloLens2

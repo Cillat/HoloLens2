@@ -1,0 +1,3 @@
+# HoloLens2
+Microsoftの公式ドキュメントのチュートリアル
+これでこのリポジトリは終了，卒論実装はEyeTrackingに移行
